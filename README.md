@@ -124,3 +124,7 @@ private void lvwWord_MouseDoubleClick(object sender, MouseEventArgs e)
 - 資料同步：在修改視窗變更內容後點擊「確定」，主視窗的 ListView 與下方的狀態列會即時連動更新。
 
 - 存檔：點選功能表的儲存選項，即可將整份經過編輯、校正後的單字清單，完整寫回指定的 TSV 文字檔中。
+
+## Screenshots
+
+![screenshot](./wordcard.png)
